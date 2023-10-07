@@ -1,15 +1,15 @@
 import Header from './Header/Header'
 import Home from './Home/Home'
 import Footer from './Footer/Footer'
-import Hero from './Ui-components/Hero'
-import Pricing from './Ui-components/Pricing'
-import Testimonial from './Ui-components/Testimonial'
 import Contact from './Contact/Contact'
 import About from './About/About'
 import Login from './Auth/Login'
-import Signup from './Auth/Signup'
+import Register from './Auth/Register'
+import Mentor from './User/Mentor'
+import Mentee from './User/Mentee'
+import PageNotFound from './PageNotFound/PageNotFound'
 
 
 
-export { Header, Home , Footer , Hero, Pricing, Testimonial, Contact, About, Login, Signup}
+export { Header, Home , Footer , Contact, About, Login, Register, Mentee, Mentor, PageNotFound}
 

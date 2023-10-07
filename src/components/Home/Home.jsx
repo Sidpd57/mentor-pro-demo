@@ -1,5 +1,4 @@
 import React from 'react'
-import {Hero, Pricing, Testimonial} from '../'
 
 function Home() {
     return (
