@@ -8,8 +8,9 @@ import Register from './Auth/Register'
 import Mentor from './User/Mentor'
 import Mentee from './User/Mentee'
 import PageNotFound from './PageNotFound/PageNotFound'
+import ProfileCard from './Cards/ProfileCard'
 
 
 
-export { Header, Home , Footer , Contact, About, Login, Register, Mentee, Mentor, PageNotFound}
+export { Header, Home , Footer , Contact, About, Login, Register, Mentee, Mentor, PageNotFound, ProfileCard}
 

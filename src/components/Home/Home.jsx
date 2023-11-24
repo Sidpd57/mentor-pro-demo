@@ -47,7 +47,7 @@ function Home() {
                     </p>
                 </div>
                 <h2 class="mt-6 text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">
-                    DevUI helps you build beautiful website
+                    Mentor Pro helps you get good mentors
                 </h2>
                 <p class="mt-4 text-base leading-relaxed text-gray-600">
                     Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
